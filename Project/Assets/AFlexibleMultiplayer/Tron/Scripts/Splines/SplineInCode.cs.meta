@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0172b93c382f15e4886a7aaeb6fe0d09
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cubForSledovaniyaPoints: {fileID: 1214435051965422, guid: 0d6ca72e3ab62a74bb4d89647d9a0955,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

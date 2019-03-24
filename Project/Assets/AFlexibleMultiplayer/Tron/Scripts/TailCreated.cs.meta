@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4ff4d97d019c0284787afc8bfb185d2f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefabTail: {fileID: 1302199691880106, guid: 3a28f246558efd34081740ec9141d81e,
+      type: 2}
+  - bikeCircle: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
