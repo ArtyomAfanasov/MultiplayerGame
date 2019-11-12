@@ -1,6 +1,6 @@
 <h1 align="center">Multiplayer game</h1>
 
-## Host is anybody player. 
+## Anyone can be host. 
 Just run BuildForWindows\AGame.exe and play with friends.
 
 ### Control:
