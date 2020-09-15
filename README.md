@@ -1,6 +1,6 @@
 <h1 align="center">Multiplayer game</h1>
 
-## Source:
+## C# scripts source:
 MultiplayerGame/src/Assets/AFlexibleMultiplayer/
 
 ## Anyone can be host. 
